@@ -1,4 +1,4 @@
-# Email Responsive Templates Generator v0.1
+### Email Responsive Templates Generator v0.1
 > Takes an html file with css link and turns inline. Also Supports responsive css to make sure its inline. This code is specifically targeted on creating responsive email templates.
 
 ## Getting Started
