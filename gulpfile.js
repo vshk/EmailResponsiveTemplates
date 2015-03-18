@@ -15,7 +15,7 @@ var getVersion = function () {
     return fs.readFileSync('Version');
 };
 
-gulp.task('default', ['inline-css-html','move']);
+gulp.task('compile', ['inline-css-html','move']);
  
 gulp.task('inline-css-html', function() {
     return gulp.src('./src/*.html')
