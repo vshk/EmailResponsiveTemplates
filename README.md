@@ -10,7 +10,7 @@ Place your Files under src directory
 
 Once the files are in use the command below to generate your files for production use :
 ```shell
-gulp default
+gulp compile
 ```
 
 Once command goes through you should see your files in below structure :
