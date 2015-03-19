@@ -2,6 +2,13 @@
 > Takes an html file with css link and turns inline. Also Supports responsive css to make sure its inline. This code is specifically targeted on creating responsive email templates.
 
 ## Getting Started
+
+Once you clone the directory on your local machine run the below command in your root to install required node modules.
+
+```shell
+npm install
+```
+
 Place your Files under src directory
  - index.html
    - CSS (Directory)
