@@ -1,0 +1,28 @@
+{
+  "name": "ResponsiveEmailTemplates",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "*", 
+    "gulp-inline-css": "*",
+    "gulp-combine-media-queries": "*",
+    "gulp-inject": "*"
+  },
+  "description": "Responsive Email Templates Generator",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-template": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vshk/EmailResponsiveTemplates"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vshk/EmailResponsiveTemplates/issues"
+  },
+  "homepage": "https://github.com/vshk/EmailResponsiveTemplates"
+}
