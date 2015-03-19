@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-####### Once you clone the directory on your local machine run the below command in your root to install required node modules.
+###### Once you clone the directory on your local run the below command to install required node modules.
 
 ```shell
 npm install
