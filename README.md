@@ -6,7 +6,7 @@
 ###### Once you clone the directory on your local run the below command to install required node modules.
 
 ```shell
-npm install
+npm install --no-bin-link --save-dev
 ```
 
 Place your Files under src directory
